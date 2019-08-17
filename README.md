@@ -1,16 +1,11 @@
-# youcation_flutter
+# Youcation_Flutter
+Youcation Application Front-End
 
-Youcation Flutter Cross-Platform Application
+### Memo
+청소년과 사회의 선순환 구조를 만들며 청소년들의 마음에 안식처가 되주는 Youcation(유케이션) Project 입니다.
 
-## Getting Started
+### 구현
+Google Dart 기반에 Flutter Framework 를 통해서 Front-End 구현을 진행합니다.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 진행 상황
+19/08/11 - 프로젝트  생성
